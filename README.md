@@ -1,20 +1,30 @@
 # Clif Kussmaul
 
 * Employment
-  * Principal Consultant, Green Mango Associates, LLC
+ * Principal Consultant, Green Mango Associates, LLC
 * Past Employment
-  * Associate Professor, Muhlenberg College
-  * CTO, Elegance Technologies, Inc.
-  * Senior Member of Technical Staff, NeST Technologies, Inc.
-  * Assistant Professor, Moravian College
-* Projects
-  * co-PI, IntroCS-POGIL project; PI CS-POGIL project (POGIL in CS)
-  * co-PI, OpenPace and OpenPath projects (faculty & student participation in FOSS) 
+ * Associate Professor, Muhlenberg College
+ * CTO, Elegance Technologies, Inc.
+ * Senior Member of Technical Staff, NeST Technologies, Inc.
+ * Assistant Professor, Moravian College
+ * Post-Graduate Research, Center for Neuroscience, University of California, Davis
+
+* Interests
+ * Process Oriented Guided Inquiry Learning (POGIL)
+  * co-PI, IntroCS-POGIL project (NSF funding)
+  * PI, CS-POGIL project (NSF funding)
+ * Faculty & student participation in FOSS
+  * co-PI, OpenPace and OpenPath projects (NSF funding)
+ * Entrepreneurship education
+  * multiple grants from National Collegiate Inventors & Innovators Alliance (NCIIA), now VentureWell
+ * Free & Open Source Software (FOSS)
+
 * Honors & Awards
-  * Fulbright Specialist, Fulbright University Vietnam
-  * Fulbright Specialist, Ashesi University, Ghana
-  * Fulbright-Nehru Scholar, University of Kerala, India
-  * Senior Member, ACM & IEEE
+ * Fulbright Specialist, Fulbright University Vietnam
+ * Fulbright Specialist, Ashesi University, Ghana
+ * Fulbright-Nehru Scholar, University of Kerala, India
+ * Engagement Excellence Award, National Center for Women & Information Technology (NCWIT)
+ * Senior Member, ACM & IEEE
 
 <!--
 **kussmaul/kussmaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
