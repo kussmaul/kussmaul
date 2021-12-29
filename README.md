@@ -13,6 +13,7 @@
   * Post-Graduate Research, Center for Neuroscience, University of California, Davis
 
 * Honors & Awards
+  * Senior Specialist, International Faculty for Engineering, Lodz University of Technology, Poland
   * Fulbright Specialist, Fulbright University Vietnam
   * Fulbright Specialist, Ashesi University, Ghana
   * Fulbright-Nehru Scholar, University of Kerala, India
